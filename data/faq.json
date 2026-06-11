@@ -1,0 +1,901 @@
+{
+  "institution": "Kakinada Institute of Engineering and Technology (KIET)",
+  "document_title": "Comprehensive Frequently Asked Questions (FAQs)",
+  "contact": {
+    "website": "https://www.kiet.edu.in",
+    "email": "admissions@kiet.edu.in",
+    "phone": "Contact via official website"
+  },
+  "faq_categories": [
+    {
+      "category": "General Admissions",
+      "questions": [
+        {
+          "id": "GA001",
+          "question": "What is KIET?",
+          "answer": "KIET (Kakinada Institute of Engineering and Technology) is a private engineering institution in Andhra Pradesh offering B.Tech, M.Tech, MBA, MCA, and Diploma programs.",
+          "related_questions": ["GA002", "GA003", "GA007"]
+        },
+        {
+          "id": "GA002",
+          "question": "Where is KIET located?",
+          "answer": "The campus is located near Kakinada, Andhra Pradesh.",
+          "related_questions": ["GA001", "GA008", "CR001"]
+        },
+        {
+          "id": "GA003",
+          "question": "How can I get admission into KIET?",
+          "answer": "Students can obtain admission through AP EAPCET counseling or through management quota / direct admission based on seat availability.",
+          "related_questions": ["AE001", "MQ001", "GA007"]
+        },
+        {
+          "id": "GA004",
+          "question": "Is AP EAPCET compulsory for admission?",
+          "answer": "No. Students may join through AP EAPCET counseling or management quota admission.",
+          "related_questions": ["AE001", "MQ001", "GA003"]
+        },
+        {
+          "id": "GA005",
+          "question": "Does KIET offer management quota seats?",
+          "answer": "Yes, management quota seats are available subject to eligibility and seat availability.",
+          "related_questions": ["MQ001", "MQ004", "FS001"]
+        },
+        {
+          "id": "GA006",
+          "question": "Can students from other states apply?",
+          "answer": "Yes, students from any state can apply for admission.",
+          "related_questions": ["GA003", "GA009", "CD005"]
+        },
+        {
+          "id": "GA007",
+          "question": "What is the admission process?",
+          "answer": "Submit an application, provide academic documents, verify eligibility, and complete fee payment. You can apply through the college admission portal.",
+          "related_questions": ["GA009", "CD001", "FS001"]
+        },
+        {
+          "id": "GA008",
+          "question": "Is there an online application facility?",
+          "answer": "Yes, students can apply through the college admission portal on the official website.",
+          "related_questions": ["GA007", "CR002", "CR003"]
+        },
+        {
+          "id": "GA009",
+          "question": "What documents are required for admission?",
+          "answer": "Typically required documents are: SSC/10th Marks Memo, Intermediate/12th Marks Memo, Transfer Certificate, Study Certificates, Aadhaar Card, Passport-size Photos, and Entrance Exam Rank Card (if applicable).",
+          "related_questions": ["CD001", "CD002", "CD003"]
+        },
+        {
+          "id": "GA010",
+          "question": "When do admissions start?",
+          "answer": "Admissions generally begin after AP EAPCET counseling notifications are released. Check the official website for the latest dates.",
+          "related_questions": ["AE001", "GA003", "CR002"]
+        }
+      ]
+    },
+    {
+      "category": "AP EAPCET",
+      "questions": [
+        {
+          "id": "AE001",
+          "question": "What is AP EAPCET?",
+          "answer": "AP EAPCET is the entrance examination used for admission into B.Tech programs in Andhra Pradesh. A valid AP EAPCET rank is required for counseling-based admissions.",
+          "related_questions": ["AE002", "AE004", "GA003"]
+        },
+        {
+          "id": "AE002",
+          "question": "Can I join KIET without AP EAPCET?",
+          "answer": "Yes, admission may be possible through management quota based on eligibility and seat availability.",
+          "related_questions": ["MQ001", "GA004", "GA003"]
+        },
+        {
+          "id": "AE003",
+          "question": "What rank is required for KIET admission?",
+          "answer": "The required rank varies by branch and yearly competition. AI, AI & ML, and Data Science branches are generally more competitive.",
+          "related_questions": ["AE005", "BT001", "AE004"]
+        },
+        {
+          "id": "AE004",
+          "question": "Do AI branches require higher ranks?",
+          "answer": "Generally yes. AI, AI & ML, and Data Science branches tend to be more competitive and may require higher ranks.",
+          "related_questions": ["AE003", "BT001", "BT005"]
+        },
+        {
+          "id": "AE005",
+          "question": "Are category reservations applicable?",
+          "answer": "Yes, government counseling follows reservation policies for SC, ST, BC, and other eligible categories.",
+          "related_questions": ["SC004", "SC005", "SC006"]
+        },
+        {
+          "id": "AE006",
+          "question": "What if I miss counseling?",
+          "answer": "You may explore later counseling rounds or management quota options if available.",
+          "related_questions": ["MQ001", "MQ010", "GA003"]
+        }
+      ]
+    },
+    {
+      "category": "B.Tech Programs",
+      "questions": [
+        {
+          "id": "BT001",
+          "question": "Which B.Tech courses are available at KIET?",
+          "answer": "Current AI-focused B.Tech programs include: Artificial Intelligence (CAI), AI & Machine Learning (CSM), Data Science (CSD), AI & Data Science (AID), and Cyber Security (CSC).",
+          "related_questions": ["BT002", "BT005", "AE004"]
+        },
+        {
+          "id": "BT002",
+          "question": "What is the duration of B.Tech?",
+          "answer": "B.Tech is a 4-year program.",
+          "related_questions": ["BT001", "BT003", "GA003"]
+        },
+        {
+          "id": "BT003",
+          "question": "What is the eligibility for B.Tech admission?",
+          "answer": "Students must have passed Intermediate (MPC) or an equivalent qualification.",
+          "related_questions": ["BT004", "AE001", "GA009"]
+        },
+        {
+          "id": "BT004",
+          "question": "Can Diploma students join B.Tech directly?",
+          "answer": "Yes, eligible Diploma students can join B.Tech through lateral entry into the second year.",
+          "related_questions": ["DP001", "DP004", "BT003"]
+        },
+        {
+          "id": "BT005",
+          "question": "Which branch has the highest demand?",
+          "answer": "AI, AI & Machine Learning, Data Science, and Cyber Security are among the most popular and in-demand programs at KIET.",
+          "related_questions": ["BT001", "PL003", "PL005"]
+        }
+      ]
+    },
+    {
+      "category": "Diploma Programs",
+      "questions": [
+        {
+          "id": "DP001",
+          "question": "Does KIET offer Diploma courses?",
+          "answer": "Yes, Diploma programs are available at KIET.",
+          "related_questions": ["DP002", "DP003", "DP004"]
+        },
+        {
+          "id": "DP002",
+          "question": "What Diploma specializations are available?",
+          "answer": "Examples include Computer Engineering and Mechanical Engineering, among others.",
+          "related_questions": ["DP001", "DP003", "DP004"]
+        },
+        {
+          "id": "DP003",
+          "question": "What is the duration of Diploma?",
+          "answer": "Diploma programs are generally 3 years in duration.",
+          "related_questions": ["DP001", "DP002", "DP004"]
+        },
+        {
+          "id": "DP004",
+          "question": "Can Diploma students continue higher studies at KIET?",
+          "answer": "Yes, Diploma students can pursue lateral entry admissions into B.Tech programs at KIET.",
+          "related_questions": ["BT004", "DP001", "GA003"]
+        }
+      ]
+    },
+    {
+      "category": "MBA & MCA Programs",
+      "questions": [
+        {
+          "id": "PG001",
+          "question": "Does KIET offer MBA?",
+          "answer": "Yes, MBA is offered at KIET as a 2-year postgraduate program.",
+          "related_questions": ["PG003", "PG005", "GA003"]
+        },
+        {
+          "id": "PG002",
+          "question": "Does KIET offer MCA?",
+          "answer": "Yes, MCA is available at KIET as a 2-year postgraduate program.",
+          "related_questions": ["PG004", "PG006", "GA003"]
+        },
+        {
+          "id": "PG003",
+          "question": "What is the duration of MBA?",
+          "answer": "MBA is a 2-year program.",
+          "related_questions": ["PG001", "PG005", "GA003"]
+        },
+        {
+          "id": "PG004",
+          "question": "What is the duration of MCA?",
+          "answer": "MCA is a 2-year program.",
+          "related_questions": ["PG002", "PG006", "GA003"]
+        },
+        {
+          "id": "PG005",
+          "question": "How can I get admission into MBA?",
+          "answer": "MBA admission is through AP ICET or eligible admission procedures as notified.",
+          "related_questions": ["PG001", "PG003", "GA007"]
+        },
+        {
+          "id": "PG006",
+          "question": "How can I get admission into MCA?",
+          "answer": "MCA admission is through the prescribed entrance process and eligibility criteria. Contact the admissions office for details.",
+          "related_questions": ["PG002", "PG004", "GA007"]
+        }
+      ]
+    },
+    {
+      "category": "Management Quota",
+      "questions": [
+        {
+          "id": "MQ001",
+          "question": "Does KIET offer management quota admissions?",
+          "answer": "Yes, management quota admissions are available subject to eligibility and seat availability.",
+          "related_questions": ["MQ002", "MQ004", "GA004"]
+        },
+        {
+          "id": "MQ002",
+          "question": "Is AP EAPCET rank compulsory for management quota?",
+          "answer": "Not always, but all eligibility requirements must be met. Contact the admissions office for specific criteria.",
+          "related_questions": ["MQ001", "AE001", "MQ003"]
+        },
+        {
+          "id": "MQ003",
+          "question": "How can I apply for management quota?",
+          "answer": "Contact the admissions office directly. Visit the campus or reach out via the official website for the procedure.",
+          "related_questions": ["MQ001", "CR003", "GA008"]
+        },
+        {
+          "id": "MQ004",
+          "question": "Are management quota fees different?",
+          "answer": "Yes, fees may differ from counseling admission fees. Contact the admissions office for the exact fee structure under management quota.",
+          "related_questions": ["FS001", "MQ001", "FS008"]
+        },
+        {
+          "id": "MQ005",
+          "question": "Are scholarships available for management quota students?",
+          "answer": "Scholarship eligibility for management quota students depends on the specific scheme. Contact the scholarship section for details.",
+          "related_questions": ["SC009", "FS002", "SC001"]
+        },
+        {
+          "id": "MQ006",
+          "question": "Can management quota students sit for placements?",
+          "answer": "Yes, placement opportunities are generally available to all eligible students regardless of admission category.",
+          "related_questions": ["PL001", "PL002", "MQ001"]
+        },
+        {
+          "id": "MQ007",
+          "question": "Can NRI students apply?",
+          "answer": "Yes, KIET has an International/NRI quota option. Contact the admissions office for details.",
+          "related_questions": ["MQ001", "GA006", "CR003"]
+        },
+        {
+          "id": "MQ008",
+          "question": "When should I apply for management quota?",
+          "answer": "Apply as early as possible because popular branches fill up quickly. Contact the admissions office immediately for seat availability.",
+          "related_questions": ["MQ001", "GA010", "CR003"]
+        }
+      ]
+    },
+    {
+      "category": "Fee Structure",
+      "questions": [
+        {
+          "id": "FS001",
+          "question": "What is the tuition fee for B.Tech?",
+          "answer": "Fees vary by course and admission category. Contact the admission office or visit the official website for the latest approved fee structure.",
+          "related_questions": ["FS002", "FS006", "FS008"]
+        },
+        {
+          "id": "FS002",
+          "question": "Are scholarships available to reduce fees?",
+          "answer": "Yes, scholarships are available for eligible students. Government fee reimbursement, merit scholarships, and category-based scholarships may apply.",
+          "related_questions": ["SC001", "FR001", "FS001"]
+        },
+        {
+          "id": "FS003",
+          "question": "What is the fee for AI & ML branch?",
+          "answer": "Contact the admissions office for the latest approved fee structure for the AI & Machine Learning program.",
+          "related_questions": ["FS004", "FS001", "BT001"]
+        },
+        {
+          "id": "FS004",
+          "question": "What is the fee for Artificial Intelligence branch?",
+          "answer": "Contact the admissions office for updated fee details for the Artificial Intelligence program.",
+          "related_questions": ["FS003", "FS001", "BT001"]
+        },
+        {
+          "id": "FS005",
+          "question": "What is the fee for Data Science branch?",
+          "answer": "Fees vary according to the approved fee structure. Contact the admissions office for the latest details.",
+          "related_questions": ["FS001", "FS003", "BT001"]
+        },
+        {
+          "id": "FS006",
+          "question": "Is hostel fee included in tuition fee?",
+          "answer": "No. Hostel fees are separate from tuition fees. You will need to pay them independently.",
+          "related_questions": ["HO001", "HO007", "FS007"]
+        },
+        {
+          "id": "FS007",
+          "question": "Are transport charges separate?",
+          "answer": "Yes. KIET has a separate transport fee structure. It is not included in the tuition fee.",
+          "related_questions": ["TR001", "TR004", "FS006"]
+        },
+        {
+          "id": "FS008",
+          "question": "Can fees be paid online?",
+          "answer": "Yes, online fee payment is available.",
+          "related_questions": ["FS009", "FS001", "GA008"]
+        },
+        {
+          "id": "FS009",
+          "question": "Can fees be paid in installments?",
+          "answer": "Contact the accounts section for installment payment options and schedules.",
+          "related_questions": ["FS008", "FS001", "CR003"]
+        },
+        {
+          "id": "FS010",
+          "question": "Is caution deposit refundable?",
+          "answer": "The refundability of the caution deposit is subject to institutional policies. Contact the accounts section for details.",
+          "related_questions": ["FS001", "FS009", "CR003"]
+        },
+        {
+          "id": "FS011",
+          "question": "What is the tuition fee for Diploma students?",
+          "answer": "The annual tuition fee for Diploma students is ₹25,000.",
+          "related_questions": ["FS012", "FS013", "DP001"]
+        },
+        {
+          "id": "FS012",
+          "question": "What is the hostel fee for Diploma students?",
+          "answer": "The annual hostel fee for Diploma students is ₹50,000.",
+          "related_questions": ["FS011", "FS013", "HO001"]
+        },
+        {
+          "id": "FS013",
+          "question": "What is the total annual fee for a Diploma student opting for hostel accommodation?",
+          "answer": "The total annual fee for a Diploma student residing in the hostel is ₹75,000, which includes ₹25,000 towards tuition fees and ₹50,000 towards hostel charges.",
+          "related_questions": ["FS011", "FS012", "HO001"]
+        },
+        {
+          "id": "FS014",
+          "question": "What is the college fee for B.Tech students?",
+          "answer": "The annual college fee for B.Tech students is ₹75,000.",
+          "related_questions": ["FS015", "FS016", "BT001"]
+        },
+        {
+          "id": "FS015",
+          "question": "What hostel accommodation options are available for B.Tech students?",
+          "answer": "B.Tech students can choose between Executive Hostel accommodation and Non-AC Hostel accommodation, both of which include mess facilities.",
+          "related_questions": ["FS016", "FS017", "HO001"]
+        },
+        {
+          "id": "FS016",
+          "question": "What is the fee for Executive Hostel accommodation for B.Tech students?",
+          "answer": "The annual fee for Executive Hostel accommodation is ₹1,50,000, inclusive of mess charges.",
+          "related_questions": ["FS017", "FS018", "HO005"]
+        },
+        {
+          "id": "FS017",
+          "question": "What is the fee for Non-AC Hostel accommodation for B.Tech students?",
+          "answer": "The annual fee for Non-AC Hostel accommodation is ₹1,00,000, inclusive of mess charges.",
+          "related_questions": ["FS016", "FS019", "HO001"]
+        },
+        {
+          "id": "FS018",
+          "question": "What is the total annual fee for a B.Tech student staying in the Executive Hostel?",
+          "answer": "The total annual fee is ₹2,25,000, comprising ₹75,000 towards college fees and ₹1,50,000 towards Executive Hostel accommodation.",
+          "related_questions": ["FS014", "FS016", "FS019"]
+        },
+        {
+          "id": "FS019",
+          "question": "What is the total annual fee for a B.Tech student staying in the Non-AC Hostel?",
+          "answer": "The total annual fee is ₹1,75,000, comprising ₹75,000 towards college fees and ₹1,00,000 towards Non-AC Hostel accommodation.",
+          "related_questions": ["FS014", "FS017", "FS018"]
+        },
+        {
+          "id": "FS020",
+          "question": "How are transportation charges calculated?",
+          "answer": "Transportation charges are determined based on the distance between the student's residence and the institution.",
+          "related_questions": ["FS007", "TR001", "TR004"]
+        }
+      ]
+    },
+    {
+      "category": "Fee Reimbursement",
+      "questions": [
+        {
+          "id": "FR001",
+          "question": "Is fee reimbursement available at KIET?",
+          "answer": "Yes. Eligible students may apply for fee reimbursement under government reimbursement schemes.",
+          "related_questions": ["FR002", "FR003", "FR010"]
+        },
+        {
+          "id": "FR002",
+          "question": "Who is eligible for fee reimbursement?",
+          "answer": "Eligibility depends on government guidelines including income limits, category, and academic performance. Contact the scholarship section for current criteria.",
+          "related_questions": ["FR001", "FR006", "SC001"]
+        },
+        {
+          "id": "FR003",
+          "question": "Does KIET assist with reimbursement applications?",
+          "answer": "Yes, the college guides students through the reimbursement application process.",
+          "related_questions": ["FR001", "FR010", "SC010"]
+        },
+        {
+          "id": "FR004",
+          "question": "Is Aadhaar required for reimbursement?",
+          "answer": "Usually yes, Aadhaar is a standard requirement for most government reimbursement schemes.",
+          "related_questions": ["FR005", "CD002", "FR002"]
+        },
+        {
+          "id": "FR005",
+          "question": "Is income certificate required for reimbursement?",
+          "answer": "Yes, an income certificate is required for most government reimbursement schemes.",
+          "related_questions": ["FR004", "FR006", "CD007"]
+        },
+        {
+          "id": "FR006",
+          "question": "What is the income limit for reimbursement?",
+          "answer": "The income limit is as per government regulations and may change annually. Check with the scholarship section for the current limit.",
+          "related_questions": ["FR002", "FR005", "SC003"]
+        },
+        {
+          "id": "FR007",
+          "question": "Can management quota students get fee reimbursement?",
+          "answer": "This depends on current government policies. Contact the scholarship section for the latest applicable rules.",
+          "related_questions": ["MQ001", "FR001", "FR002"]
+        },
+        {
+          "id": "FR008",
+          "question": "When is reimbursement amount credited?",
+          "answer": "Reimbursement is credited according to the government release schedule, which varies each year.",
+          "related_questions": ["FR001", "FR003", "FR010"]
+        },
+        {
+          "id": "FR009",
+          "question": "Can reimbursement cover hostel fees?",
+          "answer": "Usually, tuition fee reimbursement and hostel fee reimbursement are separate schemes with different eligibility criteria.",
+          "related_questions": ["HO001", "FR001", "FR002"]
+        },
+        {
+          "id": "FR010",
+          "question": "Whom should I contact regarding fee reimbursement?",
+          "answer": "Contact the college's scholarship section or admissions office for all reimbursement-related queries.",
+          "related_questions": ["FR001", "CR003", "SC010"]
+        }
+      ]
+    },
+    {
+      "category": "Hostel",
+      "questions": [
+        {
+          "id": "HO001",
+          "question": "Does KIET provide hostel facilities?",
+          "answer": "Yes. KIET provides separate hostel facilities for boys and girls.",
+          "related_questions": ["HO002", "HO007", "FS006"]
+        },
+        {
+          "id": "HO002",
+          "question": "Are hostels inside the campus?",
+          "answer": "Hostels are available within or near the campus area for easy and safe access.",
+          "related_questions": ["HO001", "HO004", "HO011"]
+        },
+        {
+          "id": "HO003",
+          "question": "Is Wi-Fi available in hostels?",
+          "answer": "Yes, internet/Wi-Fi facilities are provided in the hostels.",
+          "related_questions": ["HO001", "CL003", "HO004"]
+        },
+        {
+          "id": "HO004",
+          "question": "Is hostel security available?",
+          "answer": "Yes, security personnel and wardens are provided for student safety.",
+          "related_questions": ["HO001", "HO002", "AR001"]
+        },
+        {
+          "id": "HO005",
+          "question": "Are AC rooms available in hostel?",
+          "answer": "Yes, AC room options are available.",
+          "related_questions": ["HO001", "HO007", "HO006"]
+        },
+        {
+          "id": "HO006",
+          "question": "Is laundry facility available in hostel?",
+          "answer": "Yes, laundry facilities are provided.",
+          "related_questions": ["HO001", "HO005", "HO007"]
+        },
+        {
+          "id": "HO007",
+          "question": "Is mess or canteen facility available in hostel?",
+          "answer": "Yes, mess facilities providing meals are available in the hostel.",
+          "related_questions": ["HO001", "HO006", "FS006"]
+        },
+        {
+          "id": "HO008",
+          "question": "Are visitors allowed in hostels?",
+          "answer": "Visitor policies are as per hostel regulations. Check with the hostel warden for specific visiting hours and rules.",
+          "related_questions": ["HO004", "HO001", "HO009"]
+        },
+        {
+          "id": "HO009",
+          "question": "Is hostel accommodation guaranteed?",
+          "answer": "Hostel accommodation is subject to availability. Apply early to secure a room.",
+          "related_questions": ["HO001", "HO010", "HO008"]
+        },
+        {
+          "id": "HO010",
+          "question": "Is hostel accommodation compulsory?",
+          "answer": "No, hostel accommodation is not compulsory. Students may choose private accommodation if preferred.",
+          "related_questions": ["HO009", "HO001", "TR001"]
+        },
+        {
+          "id": "HO011",
+          "question": "Can first-year students stay outside campus?",
+          "answer": "This is subject to college rules. Contact the hostel office or admissions for the current policy.",
+          "related_questions": ["HO010", "HO004", "AR001"]
+        }
+      ]
+    },
+    {
+      "category": "Transport",
+      "questions": [
+        {
+          "id": "TR001",
+          "question": "Does KIET provide bus/transport facilities?",
+          "answer": "Yes, KIET operates bus facilities for students.",
+          "related_questions": ["TR002", "TR003", "TR004"]
+        },
+        {
+          "id": "TR002",
+          "question": "How many buses does KIET operate?",
+          "answer": "Around 37 buses are reported to be operated by KIET.",
+          "related_questions": ["TR001", "TR003", "TR006"]
+        },
+        {
+          "id": "TR003",
+          "question": "Is transport available from Kakinada city?",
+          "answer": "Yes, transport routes are available from Kakinada city to the campus.",
+          "related_questions": ["TR001", "TR002", "GA002"]
+        },
+        {
+          "id": "TR004",
+          "question": "Is transport fee separate from tuition fee?",
+          "answer": "Yes, transport fees are separate and must be paid independently.",
+          "related_questions": ["FS007", "TR001", "TR008"]
+        },
+        {
+          "id": "TR005",
+          "question": "Can transport be added later after joining?",
+          "answer": "Usually yes, subject to seat availability in the bus. Contact the transport office.",
+          "related_questions": ["TR001", "TR010", "TR004"]
+        },
+        {
+          "id": "TR006",
+          "question": "Are bus routes updated every year?",
+          "answer": "Yes, bus routes are updated depending on student demand each year.",
+          "related_questions": ["TR001", "TR003", "TR010"]
+        },
+        {
+          "id": "TR007",
+          "question": "Is bus tracking available?",
+          "answer": "Contact the transport department for information on bus tracking facilities.",
+          "related_questions": ["TR001", "TR010", "CR003"]
+        },
+        {
+          "id": "TR008",
+          "question": "Are transport fees refundable?",
+          "answer": "This depends on institutional policy. Contact the transport office or accounts section for details.",
+          "related_questions": ["TR004", "FS010", "CR003"]
+        },
+        {
+          "id": "TR009",
+          "question": "Can students use personal vehicles on campus?",
+          "answer": "As per campus regulations. Contact the administration for the current vehicle policy.",
+          "related_questions": ["TR001", "CR003"]
+        },
+        {
+          "id": "TR010",
+          "question": "Who manages transport-related issues?",
+          "answer": "The transport office at KIET manages all transport-related issues and enquiries.",
+          "related_questions": ["TR001", "CR003", "TR007"]
+        }
+      ]
+    },
+    {
+      "category": "Placements",
+      "questions": [
+        {
+          "id": "PL001",
+          "question": "Does KIET have a placement cell?",
+          "answer": "Yes, KIET has a dedicated placement cell that provides support and assistance to students for placements.",
+          "related_questions": ["PL002", "PL005", "PL007"]
+        },
+        {
+          "id": "PL002",
+          "question": "What is the highest package offered at KIET?",
+          "answer": "The KIET website highlights packages up to 45 LPA (Lakhs Per Annum).",
+          "related_questions": ["PL001", "PL004", "PL003"]
+        },
+        {
+          "id": "PL003",
+          "question": "How many companies visit KIET for placements?",
+          "answer": "More than 150 companies reportedly visit KIET for campus placements.",
+          "related_questions": ["PL002", "PL004", "PL005"]
+        },
+        {
+          "id": "PL004",
+          "question": "How many placement offers were made recently?",
+          "answer": "More than 1000 placement offers were made in a recent placement season.",
+          "related_questions": ["PL003", "PL002", "PL001"]
+        },
+        {
+          "id": "PL005",
+          "question": "Which companies recruit from KIET?",
+          "answer": "Companies that recruit from KIET include Amazon, TCS Digital, Infosys, Wipro, Accenture, Cognizant, Tech Mahindra, and many others.",
+          "related_questions": ["PL003", "PL004", "PL001"]
+        },
+        {
+          "id": "PL006",
+          "question": "Are internships available at KIET?",
+          "answer": "Yes, internship opportunities are offered through industry collaborations and training programs.",
+          "related_questions": ["PL001", "PL007", "CL001"]
+        },
+        {
+          "id": "PL007",
+          "question": "Does KIET provide coding and placement training?",
+          "answer": "Yes, placement-oriented training, coding programs, and skill development sessions are regularly conducted.",
+          "related_questions": ["PL006", "PL008", "CL001"]
+        },
+        {
+          "id": "PL008",
+          "question": "Are mock interviews conducted at KIET?",
+          "answer": "Yes, mock interviews and placement preparation activities are commonly conducted.",
+          "related_questions": ["PL007", "PL001", "PL006"]
+        },
+        {
+          "id": "PL009",
+          "question": "Can Diploma students get placement support?",
+          "answer": "Yes, eligible students including those who joined through lateral entry can receive placement assistance.",
+          "related_questions": ["DP004", "PL001", "BT004"]
+        },
+        {
+          "id": "PL010",
+          "question": "Are AI branch students eligible for placements?",
+          "answer": "Yes, students from all AI-related branches (AI, AI & ML, Data Science, Cyber Security) are eligible for placements.",
+          "related_questions": ["BT001", "PL005", "PL001"]
+        }
+      ]
+    },
+    {
+      "category": "Anti-Ragging",
+      "questions": [
+        {
+          "id": "AR001",
+          "question": "Is ragging allowed at KIET?",
+          "answer": "No. Ragging is strictly prohibited at KIET. The college follows all anti-ragging regulations.",
+          "related_questions": ["AR002", "AR004", "AR005"]
+        },
+        {
+          "id": "AR002",
+          "question": "Must students submit an anti-ragging affidavit?",
+          "answer": "Usually yes, students and parents are required to submit an anti-ragging affidavit at the time of admission.",
+          "related_questions": ["AR001", "AR005", "GA009"]
+        },
+        {
+          "id": "AR003",
+          "question": "What happens if ragging is reported at KIET?",
+          "answer": "Strict disciplinary action is taken against those found guilty of ragging, which may include suspension or expulsion.",
+          "related_questions": ["AR001", "AR005", "AR010"]
+        },
+        {
+          "id": "AR004",
+          "question": "Is there an anti-ragging committee at KIET?",
+          "answer": "Yes, KIET has a dedicated anti-ragging committee.",
+          "related_questions": ["AR001", "AR006", "AR003"]
+        },
+        {
+          "id": "AR005",
+          "question": "Can students report ragging anonymously?",
+          "answer": "Complaints can be filed through prescribed grievance mechanisms. Contact the anti-ragging committee or use the national helpline.",
+          "related_questions": ["AR004", "AR003", "AR001"]
+        },
+        {
+          "id": "AR006",
+          "question": "Can parents report ragging incidents?",
+          "answer": "Yes, parents can report ragging incidents to the college's anti-ragging committee or the administration.",
+          "related_questions": ["AR005", "AR004", "AR001"]
+        },
+        {
+          "id": "AR007",
+          "question": "Is expulsion possible for ragging?",
+          "answer": "Yes, expulsion and other severe penalties are possible for serious ragging violations, as per UGC regulations.",
+          "related_questions": ["AR003", "AR001", "AR004"]
+        }
+      ]
+    },
+    {
+      "category": "Certificates & Documents",
+      "questions": [
+        {
+          "id": "CD001",
+          "question": "What documents are required during admission?",
+          "answer": "Required documents include: SSC Marks Memo, Intermediate Marks Memo, Transfer Certificate, Aadhaar Card, Passport-size Photos, and Entrance Exam Rank Card (if applicable).",
+          "related_questions": ["CD002", "CD003", "CD006"]
+        },
+        {
+          "id": "CD002",
+          "question": "Is Aadhaar card mandatory for admission?",
+          "answer": "Usually yes, Aadhaar is a mandatory document for admission and scholarship applications.",
+          "related_questions": ["CD001", "FR004", "CD003"]
+        },
+        {
+          "id": "CD003",
+          "question": "Are original certificates required during admission?",
+          "answer": "Yes, original certificates are required during the verification process.",
+          "related_questions": ["CD001", "CD010", "GA009"]
+        },
+        {
+          "id": "CD004",
+          "question": "Is migration certificate required?",
+          "answer": "Migration certificate may be required for students coming from other boards or universities.",
+          "related_questions": ["CD001", "GA006", "CD003"]
+        },
+        {
+          "id": "CD005",
+          "question": "Is caste certificate required for admission?",
+          "answer": "Caste certificate is required to avail reservation benefits during counseling or admission.",
+          "related_questions": ["AE005", "SC004", "CD001"]
+        },
+        {
+          "id": "CD006",
+          "question": "Is income certificate required for admission?",
+          "answer": "Income certificate is required for scholarship and fee reimbursement applications.",
+          "related_questions": ["FR005", "SC003", "CD001"]
+        },
+        {
+          "id": "CD007",
+          "question": "Can documents be submitted later after initial admission?",
+          "answer": "Contact the admissions office regarding document submission deadlines. It is advisable to submit all documents on time.",
+          "related_questions": ["CD001", "CD003", "CR003"]
+        },
+        {
+          "id": "CD008",
+          "question": "Are scanned copies of documents accepted?",
+          "answer": "Scanned copies may be accepted initially for online applications, but original documents are generally required during physical verification.",
+          "related_questions": ["CD003", "CD001", "GA008"]
+        }
+      ]
+    },
+    {
+      "category": "Scholarships",
+      "questions": [
+        {
+          "id": "SC001",
+          "question": "Does KIET provide scholarships?",
+          "answer": "Yes, KIET offers and facilitates various scholarships including merit-based, government, and category-based scholarships.",
+          "related_questions": ["SC002", "FR001", "FS002"]
+        },
+        {
+          "id": "SC002",
+          "question": "Are merit scholarships available at KIET?",
+          "answer": "Yes, merit-based scholarships are offered to academically outstanding students.",
+          "related_questions": ["SC001", "SC003", "FS002"]
+        },
+        {
+          "id": "SC003",
+          "question": "Can economically weaker students apply for scholarships?",
+          "answer": "Yes, scholarships and financial assistance options are available for economically weaker sections, subject to eligibility.",
+          "related_questions": ["SC001", "FR001", "FR002"]
+        },
+        {
+          "id": "SC004",
+          "question": "Can SC category students get scholarships?",
+          "answer": "Yes, students from the SC category are eligible for scholarships under applicable government schemes.",
+          "related_questions": ["SC001", "AE005", "FR002"]
+        },
+        {
+          "id": "SC005",
+          "question": "Can ST category students get scholarships?",
+          "answer": "Yes, ST category students are eligible for scholarships under applicable government schemes.",
+          "related_questions": ["SC001", "SC004", "AE005"]
+        },
+        {
+          "id": "SC006",
+          "question": "Can BC category students get scholarships?",
+          "answer": "Yes, BC category students are eligible for applicable scholarship schemes.",
+          "related_questions": ["SC001", "SC004", "SC005"]
+        },
+        {
+          "id": "SC007",
+          "question": "Are minority scholarships available?",
+          "answer": "Minority scholarships may be available depending on government notifications for the academic year.",
+          "related_questions": ["SC001", "SC003", "FR001"]
+        },
+        {
+          "id": "SC008",
+          "question": "Is attendance required for scholarship continuation?",
+          "answer": "Usually yes, maintaining a minimum attendance percentage is a standard requirement for scholarship continuation.",
+          "related_questions": ["SC001", "SC002", "CL001"]
+        },
+        {
+          "id": "SC009",
+          "question": "Can management quota students apply for scholarships?",
+          "answer": "This depends on the specific scholarship rules. Contact the scholarship section at KIET for accurate information.",
+          "related_questions": ["MQ005", "SC001", "FR007"]
+        },
+        {
+          "id": "SC010",
+          "question": "Whom should I contact regarding scholarships at KIET?",
+          "answer": "Contact the scholarship section or student welfare office at KIET for all scholarship-related queries.",
+          "related_questions": ["FR010", "SC001", "CR003"]
+        }
+      ]
+    },
+    {
+      "category": "Campus Life",
+      "questions": [
+        {
+          "id": "CL001",
+          "question": "Does KIET conduct technical events and workshops?",
+          "answer": "Yes, KIET regularly organizes technical workshops, AI bootcamps, hackathons, and innovation events.",
+          "related_questions": ["CL002", "CL003", "PL007"]
+        },
+        {
+          "id": "CL002",
+          "question": "Are coding clubs or technical clubs available at KIET?",
+          "answer": "Students can participate in coding and technical activities conducted by departments and clubs.",
+          "related_questions": ["CL001", "PL007", "CL003"]
+        },
+        {
+          "id": "CL003",
+          "question": "Does KIET organize AI-related programs?",
+          "answer": "Yes, AI workshops, bootcamps, and AI-focused programs are frequently conducted at KIET.",
+          "related_questions": ["CL001", "BT001", "PL007"]
+        },
+        {
+          "id": "CL004",
+          "question": "Is there a library on campus?",
+          "answer": "Yes, KIET has a central library with academic resources, books, and digital materials.",
+          "related_questions": ["CL005", "GA001", "HO003"]
+        },
+        {
+          "id": "CL005",
+          "question": "Are sports facilities available at KIET?",
+          "answer": "Yes, sports and extracurricular activities are encouraged and supported at KIET.",
+          "related_questions": ["CL004", "CL001", "GA001"]
+        }
+      ]
+    },
+    {
+      "category": "Contact & Support",
+      "questions": [
+        {
+          "id": "CR001",
+          "question": "What is the college contact number?",
+          "answer": "Contact details are available on the official KIET website. Visit kiet.edu.in for the latest contact numbers.",
+          "related_questions": ["CR002", "CR003", "GA002"]
+        },
+        {
+          "id": "CR002",
+          "question": "Where can I download the admission form?",
+          "answer": "The admission form is available on the official KIET website at kiet.edu.in.",
+          "related_questions": ["GA008", "CR001", "GA007"]
+        },
+        {
+          "id": "CR003",
+          "question": "How do I contact the admission office?",
+          "answer": "Use the contact details provided on the official KIET website, or visit the campus directly to speak with the admission team.",
+          "related_questions": ["CR001", "CR004", "GA008"]
+        },
+        {
+          "id": "CR004",
+          "question": "Can I visit the KIET campus before admission?",
+          "answer": "Yes, prospective students are welcome to visit the campus and interact with the admission team before making a decision.",
+          "related_questions": ["CR003", "GA002", "CR001"]
+        },
+        {
+          "id": "CR005",
+          "question": "Why should I choose KIET?",
+          "answer": "KIET offers AI-focused programs, an industry-oriented curriculum, strong placement support (up to 45 LPA, 150+ companies), hostel facilities, scholarships, technical training, coding bootcamps, and a modern learning environment.",
+          "related_questions": ["BT001", "PL001", "HO001"]
+        }
+      ]
+    }
+  ]
+}
