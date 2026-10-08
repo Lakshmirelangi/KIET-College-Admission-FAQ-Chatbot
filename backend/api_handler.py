@@ -12,7 +12,7 @@ from backend.utils import truncate_conversation_history
 
 load_dotenv()
 
-GROQ_MODEL = "llama-3.1-8b-instant"  # Lightweight, fast, efficient for FAQ responses
+GROQ_MODEL = "openai/gpt-oss-20b"  # Lightweight, fast, efficient for FAQ responses
 
 
 def get_groq_client() -> Groq:

@@ -4,7 +4,10 @@ Main Streamlit application entry point with premium UI styling.
 Features: Feedback rating, typing indicator, "Did you mean?" suggestions,
           persona-based personalization, PDF export, unanswered questions log.
 """
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 import streamlit as st
 import base64
 import uuid

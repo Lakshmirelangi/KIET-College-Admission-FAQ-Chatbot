@@ -10,3 +10,10 @@ Diploma eligibility criteria | Diploma lateral entry into B.Tech | Diploma progr
 * Programs offered by KIET
 * Admission process and eligibility criteria
 * Campus facilities and infrastructure"
+2026-09-18T13:06:05.885983,thumbs_up,hostel food,"⚠️ I encountered an error: `GROQ_API_KEY not found. Please add it to your .env file.
+Get your free key at: https://console.groq.com`
+
+Please check your configurations and try again."
+2026-10-08T12:40:03.342618,thumbs_up,college fees,"⚠️ I encountered an error: `Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}`
+
+Please check your configurations and try again."
