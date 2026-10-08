@@ -1,7 +1,7 @@
 # 🎓 KIET College Admission FAQ Chatbot
 
 > An AI-powered admissions assistant for **Kakinada Institute of Engineering and Technology (KIET)** — built with Streamlit and the Anthropic Claude API.
-
+LIVE DEMO:https://kiet-college-admission-faq-chatbot-k9tmbywzvcgmsnehxwtvfq.streamlit.app/
 ---
 
 ## 📸 Features
